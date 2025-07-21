@@ -19,6 +19,7 @@
     background-color: white;  
     -webkit-clip-path: polygon(5% 0%, 100% 0%, 95% 100%, 0% 100%);
     clip-path: polygon(5% 0%, 100% 0%, 95% 100%, 0% 100%);
+    min-width: 1000px;
 }
 
 .nav-card-option {    
@@ -34,6 +35,6 @@
 
 .nav-card-option-active {
     background-color: rgb(87, 204, 204);
-    -webkit-clip-path: polygon(20% 0%, 100% 0%, 81% 100%, 0% 100%);
-    clip-path: polygon(20% 0%, 100% 0%, 81% 100%, 0% 100%);
+    -webkit-clip-path: polygon(20% 0%, 100% 0%, 80% 100%, 0% 100%);
+    clip-path: polygon(20% 0%, 100% 0%, 80% 100%, 0% 100%);
 }
